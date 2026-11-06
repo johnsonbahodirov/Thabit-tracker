@@ -1,0 +1,12 @@
+{
+  "name": "Thabit Habit Tracker",
+  "short_name": "Thabit",
+  "description": "A private, offline-first space to build steady habits.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#f5f7f4",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
